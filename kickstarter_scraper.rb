@@ -9,8 +9,8 @@ def create_project_hash
   # binding.pry
 end
 
-# binding.pry
+binding.pry
 
 create_project_hash
 
-binding.pry
+# binding.pry
