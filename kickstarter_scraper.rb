@@ -9,6 +9,6 @@ binding.pry
   binding.pry
 end
 
-binding.pry
+# binding.pry
 
 create_project_hash
